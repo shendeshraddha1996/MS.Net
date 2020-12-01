@@ -49,7 +49,11 @@ namespace Assignement1
             Employee o2 = new Employee("Amol", 123465);
             Employee o3 = new Employee("Amol");
             Employee o4 = new Employee();
-            Console.WriteLine(Employee.EmpNo);
+            Console.WriteLine(Employee.count);
+            Console.WriteLine("name= "+o1.name+"  EmpNO= "+o1.EmpNo); 
+           Console.WriteLine("Name =" + o2.name + " empNo= " + o2.EmpNo);
+            Console.WriteLine("Name =" + o3.name + " empNo= " + o3.EmpNo);
+            Console.WriteLine("Name =" + o4.name + " empNo= " + o4.EmpNo);
             Console.ReadLine();
         }
     }
@@ -57,7 +61,8 @@ namespace Assignement1
     class Employee
     {
         public string name;
-        public static int EmpNo;
+        public static int count;
+        public int EmpNo;
         public decimal basic;
         public short deptNo;
         public string Name
@@ -107,10 +112,11 @@ namespace Assignement1
 
         public Employee(string name=null, decimal basic=0, short deptNo=0)
         {
-            EmpNo++;
+            count++;
             this.name = name;
             this.basic = basic;
             this.deptNo = deptNo;
+            EmpNo=count;
         }  
         public  decimal GetNetSalary()
         {
