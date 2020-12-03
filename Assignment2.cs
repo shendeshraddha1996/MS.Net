@@ -32,7 +32,7 @@ namespace ASSIGNMENT2
        public int empNo;
        public short deptNo;
        public static int count;
-      protected decimal basic;
+       protected decimal basic;
        public abstract decimal Basic
         {
             set;get;
@@ -76,8 +76,8 @@ namespace ASSIGNMENT2
         {
             Console.WriteLine("Employee class Constructor");
             count++;
-            this.name = name;
-            this.deptNo = deptNo;
+            this.Name = name;
+            this.DeptNo = deptNo;
             this.basic = basic;
             EmpNo = count;
         }
