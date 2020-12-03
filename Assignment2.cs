@@ -15,17 +15,24 @@ namespace ASSIGNMENT2
            // e = new CEO("shraddha", 0, 20000);
             Console.WriteLine(e.EmpNo);
             e.CalcNetSalary();
+            Console.WriteLine("================");
+            CEO c = new CEO("shende",29,89000);
+            c.display();
             Console.ReadLine( );
         }
     }
 
+    public interface IDbFunctions
+    {
+        void display();
+    }
     abstract class Employee
     {
        public string name;               //-> no blanks
        public int empNo;
        public short deptNo;
        public static int count;
-       public decimal basic;
+      protected decimal basic;
        public abstract decimal Basic
         {
             set;get;
@@ -79,7 +86,7 @@ namespace ASSIGNMENT2
         public abstract decimal CalcNetSalary();
     }
 
-    class Manager : Employee
+    class Manager : Employee,IDbFunctions
     {
         public string designation;
         public string Designation
@@ -103,7 +110,7 @@ namespace ASSIGNMENT2
             this.designation = designation;
         }
 
-        public override decimal Basic { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public override decimal Basic { get; set ; }
 
 
         public override decimal CalcNetSalary()
@@ -111,6 +118,11 @@ namespace ASSIGNMENT2
             decimal netsalary=(20)*basic;
             Console.WriteLine(netsalary);
             return netsalary;
+        }
+
+        public void display()
+        {
+            Console.WriteLine(Basic+" "+designation);
         }
     }
 
@@ -128,7 +140,7 @@ namespace ASSIGNMENT2
         }
     }
 
-    class CEO : Employee
+    class CEO : Employee,IDbFunctions
     {
        
         public CEO(string name, short deptNo, decimal basic) :base(name,deptNo,basic)
@@ -136,13 +148,17 @@ namespace ASSIGNMENT2
 
         }
 
-        public override decimal Basic { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
+        public override decimal Basic { get { return basic; } set { value = basic; } }
         public sealed override decimal CalcNetSalary()
         {
             decimal netsalary = 40 * basic;
             Console.WriteLine(netsalary);
             return netsalary;
+        }
+
+        public void display()
+        {
+            Console.WriteLine(Basic+" "+name);
         }
     }
 }
