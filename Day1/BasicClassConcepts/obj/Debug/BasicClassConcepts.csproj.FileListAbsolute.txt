@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe.config
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.pdb
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.exe
+C:\Users\shradhha shende\source\repos\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.pdb
