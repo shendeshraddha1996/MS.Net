@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\obj\Debug\ExceptionDemo.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\shradhha shende\source\repos\day7\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

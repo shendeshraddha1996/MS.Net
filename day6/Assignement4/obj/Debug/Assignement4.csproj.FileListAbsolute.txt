@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\day6\Assignement4\bin\Debug\Assignement4.exe.config
+C:\Users\shradhha shende\source\repos\day6\Assignement4\bin\Debug\Assignement4.exe
+C:\Users\shradhha shende\source\repos\day6\Assignement4\bin\Debug\Assignement4.pdb
+C:\Users\shradhha shende\source\repos\day6\Assignement4\obj\Debug\Assignement4.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\day6\Assignement4\obj\Debug\Assignement4.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day6\Assignement4\obj\Debug\Assignement4.exe
+C:\Users\shradhha shende\source\repos\day6\Assignement4\obj\Debug\Assignement4.pdb
