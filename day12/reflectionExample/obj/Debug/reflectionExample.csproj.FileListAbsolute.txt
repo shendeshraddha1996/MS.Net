@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\bin\Debug\reflectionExample.exe.config
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\bin\Debug\reflectionExample.exe
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\bin\Debug\reflectionExample.pdb
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\obj\Debug\reflectionExample.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\obj\Debug\reflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\obj\Debug\reflectionExample.exe
+C:\Users\shradhha shende\source\repos\day12_1\reflectionExample\obj\Debug\reflectionExample.pdb
