@@ -1,0 +1,6 @@
+C:\Users\shradhha shende\source\repos\day12\BasicConcepts1\bin\Debug\BasicConcepts1.exe.config
+C:\Users\shradhha shende\source\repos\day12\BasicConcepts1\bin\Debug\BasicConcepts1.exe
+C:\Users\shradhha shende\source\repos\day12\BasicConcepts1\bin\Debug\BasicConcepts1.pdb
+C:\Users\shradhha shende\source\repos\day12\BasicConcepts1\obj\Debug\BasicConcepts1.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day12\BasicConcepts1\obj\Debug\BasicConcepts1.exe
+C:\Users\shradhha shende\source\repos\day12\BasicConcepts1\obj\Debug\BasicConcepts1.pdb
