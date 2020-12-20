@@ -1,0 +1,15 @@
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\MainWindow.g.cs
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\App.g.cs
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample_MarkupCompile.cache
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample_MarkupCompile.lref
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\MainWindow.baml
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.g.resources
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.cache
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+C:\Users\shradhha shende\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
