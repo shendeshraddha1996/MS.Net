@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{ADDA5100-A3AE-4BE4-B6B5-3FD97BC484B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposeExample", "DisposeExample\DisposeExample.csproj", "{DAC6DAE2-B8E6-4E4D-A859-C2ABF64A8AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDA5100-A3AE-4BE4-B6B5-3FD97BC484B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDA5100-A3AE-4BE4-B6B5-3FD97BC484B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDA5100-A3AE-4BE4-B6B5-3FD97BC484B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDA5100-A3AE-4BE4-B6B5-3FD97BC484B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC6DAE2-B8E6-4E4D-A859-C2ABF64A8AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC6DAE2-B8E6-4E4D-A859-C2ABF64A8AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC6DAE2-B8E6-4E4D-A859-C2ABF64A8AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC6DAE2-B8E6-4E4D-A859-C2ABF64A8AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF4B5DA-8576-4A69-AD7D-46DAA515F3E4}
+	EndGlobalSection
+EndGlobal

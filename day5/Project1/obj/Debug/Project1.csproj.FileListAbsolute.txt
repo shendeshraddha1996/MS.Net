@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\day5\Project1\bin\Debug\Project1.exe.config
+C:\Users\shradhha shende\source\repos\day5\Project1\bin\Debug\Project1.exe
+C:\Users\shradhha shende\source\repos\day5\Project1\bin\Debug\Project1.pdb
+C:\Users\shradhha shende\source\repos\day5\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\day5\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day5\Project1\obj\Debug\Project1.exe
+C:\Users\shradhha shende\source\repos\day5\Project1\obj\Debug\Project1.pdb

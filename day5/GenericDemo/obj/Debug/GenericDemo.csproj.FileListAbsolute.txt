@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\bin\Debug\GenericDemo.exe.config
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\bin\Debug\GenericDemo.exe
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\bin\Debug\GenericDemo.pdb
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\obj\Debug\GenericDemo.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\obj\Debug\GenericDemo.exe
+C:\Users\shradhha shende\source\repos\day5\GenericDemo\obj\Debug\GenericDemo.pdb

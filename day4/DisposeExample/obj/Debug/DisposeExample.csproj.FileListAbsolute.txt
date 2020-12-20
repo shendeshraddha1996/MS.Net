@@ -1,0 +1,6 @@
+C:\Users\shradhha shende\source\repos\day4\DisposeExample\bin\Debug\DisposeExample.exe.config
+C:\Users\shradhha shende\source\repos\day4\DisposeExample\bin\Debug\DisposeExample.exe
+C:\Users\shradhha shende\source\repos\day4\DisposeExample\bin\Debug\DisposeExample.pdb
+C:\Users\shradhha shende\source\repos\day4\DisposeExample\obj\Debug\DisposeExample.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day4\DisposeExample\obj\Debug\DisposeExample.exe
+C:\Users\shradhha shende\source\repos\day4\DisposeExample\obj\Debug\DisposeExample.pdb
