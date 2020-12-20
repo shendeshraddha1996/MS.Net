@@ -1,0 +1,7 @@
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\bin\Debug\ASSIGNMENT2.exe.config
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\bin\Debug\ASSIGNMENT2.exe
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\bin\Debug\ASSIGNMENT2.pdb
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.csprojAssemblyReference.cache
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.csproj.CoreCompileInputs.cache
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.exe
+C:\Users\shradhha shende\source\repos\day3\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.pdb
