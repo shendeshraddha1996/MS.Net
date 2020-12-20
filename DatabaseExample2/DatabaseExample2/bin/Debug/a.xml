@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Emps diffgr:id="Emps1" msdata:rowOrder="0">
+      <EmpNo>1</EmpNo>
+      <EmpName>shraddha</EmpName>
+      <EmpSalary>124878.36</EmpSalary>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps2" msdata:rowOrder="1">
+      <EmpNo>4</EmpNo>
+      <EmpName>PrajktaN</EmpName>
+      <EmpSalary>100000</EmpSalary>
+      <DeptNo>30</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps3" msdata:rowOrder="2">
+      <EmpNo>5</EmpNo>
+      <EmpName>Nikhil</EmpName>
+      <EmpSalary>2000</EmpSalary>
+      <DeptNo>40</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps4" msdata:rowOrder="3">
+      <EmpNo>6</EmpNo>
+      <EmpName>MeghaN</EmpName>
+      <EmpSalary>4000</EmpSalary>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps5" msdata:rowOrder="4" diffgr:hasChanges="modified">
+      <EmpNo>7</EmpNo>
+      <EmpName>AvinashN</EmpName>
+      <EmpSalary>18000</EmpSalary>
+      <DeptNo>40</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <EmpNo>8</EmpNo>
+      <EmpName>Vaibjav</EmpName>
+      <EmpSalary>3000</EmpSalary>
+      <DeptNo>30</DeptNo>
+    </Emps>
+    <Deps diffgr:id="Deps1" msdata:rowOrder="0">
+      <DeptNo>20</DeptNo>
+      <DeptName>CS</DeptName>
+      <Location>Nagpur</Location>
+    </Deps>
+    <Deps diffgr:id="Deps2" msdata:rowOrder="1">
+      <DeptNo>30</DeptNo>
+      <DeptName>IT</DeptName>
+      <Location>Mumbai</Location>
+    </Deps>
+    <Deps diffgr:id="Deps3" msdata:rowOrder="2">
+      <DeptNo>40</DeptNo>
+      <DeptName>HR</DeptName>
+      <Location>Delhi</Location>
+    </Deps>
+  </NewDataSet>
+  <diffgr:before>
+    <Emps diffgr:id="Emps5" msdata:rowOrder="4">
+      <EmpNo>7</EmpNo>
+      <EmpName>Avinash</EmpName>
+      <EmpSalary>8000</EmpSalary>
+      <DeptNo>40</DeptNo>
+    </Emps>
+  </diffgr:before>
+</diffgr:diffgram>
